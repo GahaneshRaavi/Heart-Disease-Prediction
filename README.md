@@ -1,8 +1,8 @@
 # Heart-Disease-Prediction
 
        1.Data Preprocessing with Pandas & NumPy
-       • Loaded the heart_disease.csv dataset using Pandas.
-       •Handled missing values by replacing them with the median to improve data quality.
+       •        Loaded the heart_disease.csv dataset using Pandas.
+       •        Handled missing values by replacing them with the median to improve data quality.
   
 	2.Exploratory Data Analysis (EDA) with Seaborn & Matplotlib
 	•	Used .describe() and .info() for dataset insights.
